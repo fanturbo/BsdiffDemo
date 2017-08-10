@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         TextView tv = (TextView) findViewById(R.id.tv);
-        tv.setText("Second");
+        tv.setText("233333");
     }
 
     public void checkVertion(View view) {
